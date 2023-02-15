@@ -1,0 +1,61 @@
+*{color: white;
+    font-size: 25px;
+}
+    nav{
+    display: flex;
+    justify-content: center;
+    background-color:black;
+    color: white;
+    font-size: medium;
+    margin: 0 30%;
+}
+.img{
+    display: flex;
+    justify-content: center;
+    
+}
+img{
+    width: 40%;
+}
+ .elementContainer{
+     display:block;
+     
+ }
+ .textHeading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    margin:0 30%;
+ }
+ .buttonRow{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 30%;
+    background-color: black;
+    
+
+ }
+ button{
+    margin:10px;
+    background-color: rgb(101, 54, 54);
+ }
+ .container{
+    display: flex;
+    justify-content:space-around;
+    margin:0 30%;
+    background-color: black;
+}
+.playerDisplay{
+    display: flex;
+    justify-content: center;
+    font-size: 1.5em;
+}
+.computerDisplay{
+    display: flex;
+    justify-content: center;
+    font-size: 1.5em;
+}
+ 
+  
